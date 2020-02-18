@@ -1,3 +1,4 @@
 Ceci est un texte.
 
 Nouveau message en collaboration
+Bien recu.
