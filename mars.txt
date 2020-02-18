@@ -1,4 +1,7 @@
 Ceci est un texte.
 
 Nouveau message en collaboration
+
 Mars is a great planet
+Bien recu.
+
